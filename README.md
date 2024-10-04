@@ -1,4 +1,4 @@
-<h1>CarDekho App</h1>
+<h1>Biometric Authentication</h1>
 
 <h2>Description</h2>
 This provides means to perform local, on-device authentication of the user.
